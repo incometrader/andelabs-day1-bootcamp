@@ -1,0 +1,19 @@
+{
+  "name": "datatypes_andelabs",
+  "version": "1.0.0",
+  "description": "A function that returns results based on its argument",
+  "main": "src/datatypes",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "datatypes",
+    "andelabs",
+    "test"
+  ],
+  "author": "Ignatius Ukwuoma",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
